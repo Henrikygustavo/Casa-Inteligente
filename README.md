@@ -11,7 +11,7 @@
 
 ---
 
-## 2.
+## 2. Configuração
 Configurar o Backend (Servidor)
 Abrir outro terminal (PowerShell ou outro) no diretório do backend:
 
